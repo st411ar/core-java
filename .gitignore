@@ -5,3 +5,7 @@
 # eclipse
 *.classpath
 *.project
+
+# idea
+.idea/
+*.iml
