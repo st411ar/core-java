@@ -1,0 +1,2 @@
+javac inheritance/ManagerTest.java
+java inheritance.ManagerTest
