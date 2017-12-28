@@ -1,0 +1,2 @@
+javac ConstructorTest.java
+java ConstructorTest
