@@ -1,0 +1,2 @@
+javac PackageTest.java
+java PackageTest
