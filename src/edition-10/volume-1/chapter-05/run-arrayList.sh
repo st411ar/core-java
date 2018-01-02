@@ -1,0 +1,2 @@
+javac arrayList/ArrayListTest.java
+java arrayList.ArrayListTest
